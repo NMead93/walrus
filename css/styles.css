@@ -2,11 +2,11 @@
   display: none;
 }
 
-.clickable {
+.clickable, .fade-text, .slide-text {
   cursor: pointer;
   color: red;
 }
 
-.clickable:hover {
+.clickable:hover, .fade-text:hover, .slide-text:hover {
   text-decoration: underline;
 }
