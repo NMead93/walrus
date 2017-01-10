@@ -1,0 +1,12 @@
+#show-hide {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: red;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
